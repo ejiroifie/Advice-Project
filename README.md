@@ -16,18 +16,18 @@
 
 So this is to-do list for this project: 
 
-[] Create index.html page.
-[] Create a form. 
-[] Create a button. 
-[] Create a basic layout. 
-[] Center form on web page. 
-[] Create a Javascript file. 
-[] Import Javascript File into index.html. 
-[]Define Javascript function which handles oneclick event.
-[]Fetch data from Advice Slip API.
-[]Store data into arrays as object 
-[]Render that data on index.html page. Front end. 
-[]Test.
+[] Create index.html page.  
+[] Create a form.   
+[] Create a button.   
+[] Create a basic layout.   
+[] Center form on web page.   
+[] Create a Javascript file.   
+[] Import Javascript File into index.html.   
+[]Define Javascript function which handles oneclick event.  
+[]Fetch data from Advice Slip API.  
+[]Store data into arrays as object.   
+[]Render that data on index.html page. Front end.   
+[]Test. 
 
 
 
