@@ -18,8 +18,8 @@ So this is to-do list for this project:
 
 [x] Create index.html page.    
 [x] Create a button.   
-[] Create a basic layout.   
-[] Center form on web page.   
+[x] Create a basic layout.   
+[] Center container div on web page   
 [] Create a Javascript file.   
 [] Import Javascript File into index.html.   
 []Define Javascript function which handles oneclick event.  
