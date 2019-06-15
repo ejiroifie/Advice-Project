@@ -6,7 +6,7 @@
 2. The content should be at center of web page.
 
 
-###Planning 
+Planning 
 
 1. For a project like this, just simple HTML,CSS and Javascript should be enough. 
 2. We can search for good advice and quotes on the internet, copy paste and store into array and display random array element from click of a button. 
@@ -19,7 +19,7 @@ So this is to-do list for this project:
 [x] Create index.html page.    
 [x] Create a button.   
 [x] Create a basic layout.   
-[] Center container div on web page   
+[x] Center container div on web page   
 [] Create a Javascript file.   
 [] Import Javascript File into index.html.   
 []Define Javascript function which handles oneclick event.  
