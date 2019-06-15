@@ -16,9 +16,8 @@
 
 So this is to-do list for this project: 
 
-[] Create index.html page.  
-[] Create a form.   
-[] Create a button.   
+[x] Create index.html page.    
+[x] Create a button.   
 [] Create a basic layout.   
 [] Center form on web page.   
 [] Create a Javascript file.   
