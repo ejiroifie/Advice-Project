@@ -20,9 +20,9 @@ So this is to-do list for this project:
 [x] Create a button.   
 [x] Create a basic layout.   
 [x] Center container div on web page   
-[] Create a Javascript file.   
-[] Import Javascript File into index.html.   
-[]Define Javascript function which handles oneclick event.  
+[x] Create a Javascript file.   
+[x] Import Javascript File into index.html.   
+[x] Define Javascript function which handles oneclick event.  
 []Fetch data from Advice Slip API.  
 []Store data into arrays as object.   
 []Render that data on index.html page. Front end.   
